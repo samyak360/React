@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.2d9d7725.chunk.css",
+    "main.js": "/React/static/js/main.ecc911d8.chunk.js",
+    "main.js.map": "/React/static/js/main.ecc911d8.chunk.js.map",
+    "runtime-main.js": "/React/static/js/runtime-main.ea304585.js",
+    "runtime-main.js.map": "/React/static/js/runtime-main.ea304585.js.map",
+    "static/js/2.175aff9f.chunk.js": "/React/static/js/2.175aff9f.chunk.js",
+    "static/js/2.175aff9f.chunk.js.map": "/React/static/js/2.175aff9f.chunk.js.map",
+    "static/js/3.a1b12e02.chunk.js": "/React/static/js/3.a1b12e02.chunk.js",
+    "static/js/3.a1b12e02.chunk.js.map": "/React/static/js/3.a1b12e02.chunk.js.map",
+    "index.html": "/React/index.html",
+    "static/css/main.2d9d7725.chunk.css.map": "/React/static/css/main.2d9d7725.chunk.css.map",
+    "static/js/2.175aff9f.chunk.js.LICENSE.txt": "/React/static/js/2.175aff9f.chunk.js.LICENSE.txt",
+    "static/media/cheese.6a72516b.png": "/React/static/media/cheese.6a72516b.png",
+    "static/media/rat.adba9972.png": "/React/static/media/rat.adba9972.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea304585.js",
+    "static/js/2.175aff9f.chunk.js",
+    "static/css/main.2d9d7725.chunk.css",
+    "static/js/main.ecc911d8.chunk.js"
+  ]
+}
