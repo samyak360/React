@@ -1,0 +1,14 @@
+.banner{
+    background: url('../images/banner.jpg') no-repeat;     
+    background-size: cover;
+    padding-top:200px;
+}
+
+.smalltext{
+    font-size: 14px;
+    color: #aaa
+}
+
+.right{
+    float: right;
+}
